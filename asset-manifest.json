@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarGame/static/css/main.1de57350.css",
+    "main.js": "/StarGame/static/js/main.b49a8c50.js",
+    "static/js/787.d64bb760.chunk.js": "/StarGame/static/js/787.d64bb760.chunk.js",
+    "index.html": "/StarGame/index.html",
+    "main.1de57350.css.map": "/StarGame/static/css/main.1de57350.css.map",
+    "main.b49a8c50.js.map": "/StarGame/static/js/main.b49a8c50.js.map",
+    "787.d64bb760.chunk.js.map": "/StarGame/static/js/787.d64bb760.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de57350.css",
+    "static/js/main.b49a8c50.js"
+  ]
+}
