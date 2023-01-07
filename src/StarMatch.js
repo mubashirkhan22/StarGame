@@ -82,7 +82,7 @@ const StarMatch = (props) => {
     const [star, setStar] = useState(utils.random(1, 9));
     const [availableNums, setAvailableNums] = useState(utils.range(1, 9));
     const [candidateNums, setCandidateNums] = useState([]);
-    const [secondLeft, setSecondLeft] = useState(10);
+    const [secondLeft, setSecondLeft] = useState(20);
     const candidateWrong = utils.sum(candidateNums) > star;
     // const gameIsWin = availableNums.length === 0;
     // const gameIsLost = secondLeft === 0;
